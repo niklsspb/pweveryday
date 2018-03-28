@@ -1,6 +1,6 @@
 import logging
 import sys
-
+import os
 from telegram.ext import *
 
 from jobs import start, get_gold, get_everyday
