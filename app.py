@@ -5,7 +5,7 @@ from telegram.ext import *
 
 from jobs import start, get_gold, get_everyday
 from actions import get_my_orders
-from configs import *
+# from configs import *
 
 
 # logging.basicConfig(
